@@ -9,9 +9,9 @@ const katex = require('rehype-katex');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'KQM SRL',
-  tagline: 'KeqingMains\'s Honkai: Star Rail Library',
-  url: 'https://srl.keqingmains.com',
+  title: 'ستار ريل بالعربي',
+  tagline: 'هونكاي: مكتبة ستار ريل',
+  url: 'https://hsrarabic.netlify.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   trailingSlash: false,
@@ -20,15 +20,15 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Oso00Luffy', // Usually your GitHub org/user name.
+  projectName: 'hsrarabic', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'ar'],
   },
 
   plugins: [
@@ -148,9 +148,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'KQM SRL',
+        title: 'ستار ريل بالعربي',
         logo: {
-          alt: 'KeqingMains Logo',
+          alt: 'SRiA',
           src: 'img/logo.webp',
           width: 40,
           height: 32
@@ -168,18 +168,8 @@ const config = {
             label: 'Newsletter',
           },
           {
-            href: 'https://hsr.keqingmains.com/',
-            label: 'KeqingMains',
-            position: 'right',
-          },
-          {
-            href: 'https://github.com/KQM-git/SRL/',
-            label: 'GitHub',
-            position: 'right',
-          },
-          {
-            href: 'https://discord.gg/KQMStarRail',
-            label: 'Discord',
+            href: 'https://t.me/HonkaiStarRailAR',
+            label: 'Telegram',
             position: 'right',
           },
         ],
@@ -206,22 +196,14 @@ const config = {
                 label: 'Newsletter',
                 to: '/newsletter',
               },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/KQM-git/SRL/',
-              },
             ],
           },
           {
             title: 'More',
             items: [
               {
-                label: 'KQM',
-                href: 'https://keqingmains.com/',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discord.gg/KQMStarRail',
+                label: 'Tele',
+                href: 'https://t.me/HonkaiStarRailAR',
               },
             ],
           },
