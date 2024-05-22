@@ -112,7 +112,7 @@ const config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/KQM-git/SRL/blob/master/',
+          editUrl: '/',
           remarkPlugins: [math],
           rehypePlugins: [katex],
         },
@@ -120,7 +120,7 @@ const config = {
           routeBasePath: '/newsletter',
           blogTitle: 'Newsletter',
           path: 'newsletter',
-          editUrl: 'https://github.com/KQM-git/SRL/blob/master/',
+          editUrl: '/',
           postsPerPage: 5,
           blogSidebarCount: 'ALL',
           blogSidebarTitle: 'All our posts',
