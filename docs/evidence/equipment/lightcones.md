@@ -5,7 +5,7 @@ sidebar_position: 1000
 
 # Light Cones
 
-Light Cones are currently being theorytested, see light-cone-basic-mechanics in our [Honkai: Star Rail ᵃʳ هونكاي ستار ريل](https://t.me/HonkaiStarRailAR) for progress and submissions.
+Light Cones are currently being theorytested, see light-cone-basic-mechanics in our [Honkai: Star Rail ᵃʳ هونكاي ستار ريل](https://t.me/HonkaiStarRailAR) to know more.
 
 <!-- TODO
 ## General Mechanics
