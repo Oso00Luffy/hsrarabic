@@ -4,7 +4,7 @@ sidebar_position: 1001
 
 # Star Rail Library
 
-This star rail Library is a collection of community submitted knowledge and information about Honkai: Star Rail. The information and content found on the SRL has been vetted and checked by Osama before being published.
+This Star Rail Library is a collection of community submitted knowledge and information about Honkai: Star Rail. The information and content found on the SRL has been vetted and checked by Osama before being published.
 
 The SRL is organized so that each page has a corresponding Evidence Vault. The Evidence Vault houses every submission in full that has been made to the SRL. While the main pages are where basic information and summaries of submitted findings can be found.
 
@@ -39,7 +39,7 @@ If you're interested in our work with information/findings, follow us:
 
 1. Join the Telegram Page: [Honkai: Star Rail ᵃʳ هونكاي ستار ريل](https://t.me/HonkaiStarRailAR).
 2. Follow the rules, and enjoy with time with a lot of people that has several knowledge.
-3. Follow the directions from the admins and be humble!
+3. Follow the directions from the admins and enjoy!
 
 ## Feedback
 
