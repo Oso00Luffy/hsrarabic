@@ -178,32 +178,44 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'TC Library',
+            title: 'موقعنا',
             items: [
               {
-                label: 'Home',
+                label: 'الواجهة الأمامية',
                 to: '/',
               },
               {
-                label: 'Characters',
+                label: 'الشخصيات',
                 to: '/characters',
               },
               {
-                label: 'Equipment',
+                label: 'المعدات',
                 to: '/equipment',
               },
               {
-                label: 'Newsletter',
+                label: 'الجريدة',
                 to: '/newsletter',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'تابعنا',
             items: [
               {
                 label: 'Telegram',
                 href: 'https://t.me/HonkaiStarRailAR',
+              },
+              {
+                label: 'Instagram',
+                href: 'https://www.instagram.com/hsr.in.arabic1',
+              },
+               {
+                label: 'Twitter',
+                href: '/',
+              },
+               {
+                label: 'Tik Tok',
+                href: '/',
               },
             ],
           },
