@@ -2,8 +2,8 @@
 
 **By:** @bobrokrot  
 **Added:** <Version date="2023-05-17" />  
-**Last tested:** <VersionHl date="2023-05-16" />  
-[Discussion](https://hsr-tickets.keqingmains.com/transcripts/dmg-reduction-before-shields)
+**Last tested:** <VersionHl date="2024-05-22" />  
+[Discussion](https://t.me/HonkaiStarRailAR)
 
 **Finding:**  
 Damage reduction effects are applied to the damage dealt to characters before damaging the shield.  
