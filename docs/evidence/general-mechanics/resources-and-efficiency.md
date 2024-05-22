@@ -7,7 +7,7 @@
 **By:** @akariaikawa  
 **Added:** <Version date="2023-07-01" />  
 **Last tested:** <VersionHl date="2023-05-08" />  
-[Discussion](https://hsr-tickets.keqingmains.com/transcripts/character-support-mechanics)
+[Discussion](https://t.me/HonkaiStarRailArabic)
 
 **Theory:**  
 The character support system gives 2000 credits whenever it's used, up to a max of (I think its 50,000? I'm trying to find where the game says this, ill check later) credits. this ticket is to figure out how the system works exactly between every use and every round, as well as documenting other uses of the support system (like borrowing a character to complete a team for a character-related achievement ie. One Big Happy Family)  
