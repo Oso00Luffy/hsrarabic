@@ -11,14 +11,14 @@ sidebar_position: 2000
 
 ## General Mechanics
 
-Relics are currently being theorytested, see [#relic-basic-mechanics](https://discord.com/channels/1089339185611145297/1102261441257545788) in our [Discord](https://discord.gg/kqmstarrail) for progress and submissions.
+Relics are currently being theorytested, see relic-basic-mechanics in our [Telegram](https://t.me/HonkaiStarRailAR) to know more.
 
 ## Champion Set Stacks
 
 **By:** Unknown, @soul_fish, @skylarke, @menor, @elnawawi  
 **Added:** <Version date="2023-06-05" />  
-**Last tested:** <VersionHl date="2023-06-05" />  
-[Discussion](https://hsr-tickets.keqingmains.com/transcripts/champion-set-stacks)
+**Last tested:** <VersionHl date="2024-05-22" />  
+[Discussion](https://t.me/HonkaiStarRailAR)
 
 **Finding:**  
 The Champion of Streetwise Boxing increases stacks upon taking damage and characters' attacks (up to 5 stacks).
