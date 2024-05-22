@@ -10,13 +10,15 @@ The SRL is organized so that each page has a corresponding Evidence Vault. The E
 
 ## Quick Links
 
-**Most Recent Characters:** [Acheron](/characters/lightning/acheron) | [Gallagher](/characters/fire/gallagher)
+**Best character of all time:** [Acheron](/characters/lightning/acheron)
 
-**Most Recent Light Cones:** [Along the Passing Shore](equipment/lightcones/nihility#along-the-passing-shore)
+**Best lightcone of all time:** [Along the Passing Shore](equipment/lightcones/nihility#along-the-passing-shore)
 
 ## Data Status
 
 * Characters - complete (up to 2.1)
+* Resources - WIP
+* Builds - WIP
   * Base Stats - complete (up to 2.1)
   * Abilities - complete (up to 2.1)
   * Traces - complete (up to 2.1)
