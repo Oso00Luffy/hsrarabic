@@ -14,7 +14,11 @@ import Image from '@theme/IdealImage'
 ## Resources
 
 * TODO
+  
+## Build
 
+* TODO
+  
 ## Base Stats
 
 import CharStatsTable from '@site/src/components/char/CharStatsTable'
