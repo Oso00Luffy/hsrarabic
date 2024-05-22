@@ -202,7 +202,7 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Tele',
+                label: 'Telegram',
                 href: 'https://t.me/HonkaiStarRailAR',
               },
             ],
