@@ -1,6 +1,6 @@
 # Star Rail Library
 
-The Theorycrafting Library (SRL) is a collection of community submitted knowledge and information about Honkai: Star Rail. The information and content found on the SRL has been vetted and checked by KQM's Theorycrafting Editors before being published.
+The Library (SRL) is a collection of community submitted knowledge and information about Honkai: Star Rail. The information and content found on the SRL has been vetted and checked before being published.
 
 See [main page](/docs/README.md) for more information.
 
