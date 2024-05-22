@@ -17,8 +17,8 @@ The SRL is organized so that each page has a corresponding Evidence Vault. The E
 ## Data Status
 
 * Characters - complete (up to 2.1)
-* Resources - WIP
-* Builds - WIP
+  * Resources - WIP
+  * Builds - WIP
   * Base Stats - complete (up to 2.1)
   * Abilities - complete (up to 2.1)
   * Traces - complete (up to 2.1)
