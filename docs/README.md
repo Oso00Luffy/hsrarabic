@@ -11,9 +11,9 @@ sidebar_position: 1001
 
 ## روابط مميزة
 
-**Best character of all time:** [Acheron](/characters/lightning/acheron)
+**أفضل شخصية على مرّ العصور:** [Acheron](/characters/lightning/acheron)
 
-**Best lightcone of all time:** [Along the Passing Shore](equipment/lightcones/nihility#along-the-passing-shore)
+**أفضل لايتكون على مرّ العصور:** [Along the Passing Shore](equipment/lightcones/nihility#along-the-passing-shore)
 
 ## حالة البيانات
 
