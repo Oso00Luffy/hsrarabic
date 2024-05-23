@@ -180,3 +180,6 @@ div[role="tabpanel"] {
 .value {
   cursor: help;
 }
+.right-align {
+    text-align: right;
+}
