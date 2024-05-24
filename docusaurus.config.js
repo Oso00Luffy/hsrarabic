@@ -27,10 +27,18 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'ar',
-    locales: ['en','ar'],
+    defaultLocale: 'en',
+    locales: ['en', 'ar'],
   },
-
+  themeConfig: {
+    // Other configurations
+    i18n: {
+      ar: {
+        direction: 'rtl',
+      },
+    },
+  },
+  
   plugins: [
     [
       'client-redirects',
