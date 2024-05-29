@@ -6,7 +6,7 @@ description: |-
 
 import char from '@site/src/data/characters/Trailblazer_(Physical).json'
 
-# Trailblazer (Physical)
+# Trailblazer (Imaginary)
 
 import Image from '@theme/IdealImage'
 
