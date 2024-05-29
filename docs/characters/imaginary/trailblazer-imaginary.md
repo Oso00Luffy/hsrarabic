@@ -4,13 +4,13 @@ description: |-
   They chose to travel with the Astral Express to eliminate the dangers posed by the Stellaron.
 ---
 
-import char from '@site/src/data/characters/Trailblazer_(Physical).json'
+import char from '@site/src/data/characters/Trailblazer_(Imaginary).json'
 
 # Trailblazer (Imaginary)
 
 import Image from '@theme/IdealImage'
 
-<Image img={require('/img/characters/gacha/Trailblazer_(Physical).png')} alt="Physical Trailblazer's gacha art" />
+<Image img={require('/img/characters/gacha/Trailblazer_(Imaginary).png')} alt="Imaginary Trailblazer's gacha art" />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
