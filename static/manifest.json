@@ -24,7 +24,7 @@
   "display": "minimal-ui",
   "scope": "/",
   "theme_color": "#2D282F",
-  "background_image": "static/imag/background.jpg",  // Add this line
+  "background_image": "static/img/background.jpg",  // Add this line
   "shortcuts": [
     {
       "name": "Character list",
