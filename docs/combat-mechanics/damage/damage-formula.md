@@ -92,6 +92,3 @@ $$
 \end{cases}
 $$
 
-## Evidence Vault
-
-<Card item={require('../../evidence/combat-mechanics/damage/damage-formula.md')} />
