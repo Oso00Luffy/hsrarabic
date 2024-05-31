@@ -69,6 +69,3 @@ import destruction from '@site/src/data/lightcones/Destruction.json'
 
 <Lightcone lightcone="Shattered Home" lightcones={destruction} />
 
-## Evidence Vault
-
-<Card item={require('../../evidence/equipment/lightcones.md')} />
