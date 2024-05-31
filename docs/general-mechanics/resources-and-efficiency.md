@@ -12,7 +12,3 @@ The Character Support System awards credits instantly the moment a player uses y
 * It is possible to ‘gift’ your friend the maximum amount of daily credits by doing five instances of battle. It is also possible to ‘give’ your friend credits without using Trailblaze Power by exhausting the weekly boss limit, then doing a Power-less run with a support.
 
 Details: [Google Doc](https://docs.google.com/document/d/1k9WzvpiC-pizkTNAjyro_ObWmUtLejY6KTLdN5DiEuI/edit?usp=sharing)
-
-## Evidence Vault
-
-<Card item={require('../evidence/general-mechanics/resources-and-efficiency.md')} />
