@@ -60,7 +60,3 @@ import abundance from '@site/src/data/lightcones/Abundance.json'
 ### Multiplication
 
 <Lightcone lightcone="Multiplication" lightcones={abundance} />
-
-## Evidence Vault
-
-<Card item={require('../../evidence/equipment/lightcones.md')} />
