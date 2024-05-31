@@ -4,7 +4,7 @@ description: An explanation as to how outgoing damage is calculated.
 
 # Damage Formula
 
-:::danger
+::: تحذير
 This page is still heavily under construction, the current info is based on [arkkus' document](https://docs.google.com/document/d/e/2PACX-1vQ9M7q5jLz9DKkTRlsGiB8RGYyPQyhShbuTbrVPQ7-Ke4_U787MfWzr2NjY-KrQo5Ota4Lj3JrFyge9/pub)
 :::
 
