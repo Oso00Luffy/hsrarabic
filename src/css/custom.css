@@ -183,3 +183,9 @@ div[role="tabpanel"] {
 .right-align {
     text-align: right;
 }
+body {
+  background-color: #2D282F; /* Default background color */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
