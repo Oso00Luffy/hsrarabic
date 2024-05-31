@@ -139,7 +139,3 @@ import Relic from '@site/src/components/relics/Relic'
 ### Talia: Kingdom of Banditry
 
 <Relic relic="Talia: Kingdom of Banditry" />
-
-## Evidence Vault
-
-<Card item={require('../evidence/equipment/relics.md')} />
