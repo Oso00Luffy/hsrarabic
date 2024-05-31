@@ -57,6 +57,3 @@ import preservation from '@site/src/data/lightcones/Preservation.json'
 
 <Lightcone lightcone="Pioneering" lightcones={preservation} />
 
-## Evidence Vault
-
-<Card item={require('../../evidence/equipment/lightcones.md')} />
