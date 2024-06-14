@@ -1,8 +1,8 @@
 
 {
-  "name": "Trailblazer (Physical)",
-  "damageType": "Physical",
-  "baseType": "Destruction",
+  "name": "Trailblazer (Imaginary)",
+  "damageType": "Imaginary",
+  "baseType": "Harmony",
   "star": 5,
   "stats": [
     {
