@@ -21,6 +21,3 @@ import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
         .flatMap(i => i.type == "category" ? i.items : [])
         .sort((a, b) => a.label.localeCompare(b.label))
 }/> 
-
-import React from 'react';
-import FancyCard from '@site/src/components/FancyCard';
