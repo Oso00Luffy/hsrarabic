@@ -151,7 +151,6 @@ const config = {
       crossorigin: 'anonymous',
     },
   ],
-  themes: ['docusaurus-theme-search-typesense'],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -242,18 +241,5 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-      typesense: {
-        typesenseCollectionName: 'srl',
-        typesenseServerConfig: {
-          nodes: [{
-            host: 'library-search.keqingmains.com',
-            port: 443,
-            protocol: 'https'
-          }],
-          apiKey: 'g5CAwtRMy61YRcTvtNhANtMbhTvWveA9'
-        }
-      }
-    }),
-};
 
 module.exports = config;
