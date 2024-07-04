@@ -97,7 +97,7 @@
     },
     {
       "level": 6,
-      "maxLevel": 800,
+      "maxLevel": 80,
       "attackBase": 392.48,
       "attackAdd": 2.850,
       "hpBase": 954.0,
