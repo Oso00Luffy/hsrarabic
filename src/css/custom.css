@@ -3,7 +3,6 @@
  * bundles Infima by default. Infima is a CSS framework designed to
  * work well for content-centric websites.
  */
-@import './FancyCard.css';
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #9815d0;
