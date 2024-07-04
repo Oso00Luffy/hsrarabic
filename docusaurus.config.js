@@ -1,12 +1,9 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
-
 const lightCodeTheme = require('prism-react-renderer/themes/okaidia');
 const darkCodeTheme = require('prism-react-renderer/themes/ultramin');
-
 const math = require('remark-math');
 const katex = require('rehype-katex');
-
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'ستار ريل بالعربي',
@@ -17,12 +14,10 @@ const config = {
   trailingSlash: false,
   onBrokenMarkdownLinks: 'warn',
   favicon: 'favicon.ico',
-
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Oso00Luffy', // Usually your GitHub org/user name.
   projectName: 'hsrarabic', // Usually your repo name.
-
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
@@ -46,7 +41,6 @@ const config = {
       ({
         createRedirects(routePath) {
           const charMatch = routePath.match(/^(\/characters\/[a-z]+\/)(.+)$/);
-
           if (charMatch) {
             const char = charMatch[2];
             // console.log(`Adding alias from ${char} to ${routePath}`);
@@ -56,7 +50,6 @@ const config = {
             }
             return [`/${char}`, `/characters/${char}`];
           }
-
           const evidenceMatch = routePath.match(/^(\/evidence\/characters\/[a-z]+\/)(.+)$/);
           if (evidenceMatch) {
             const char = evidenceMatch[2];
@@ -67,7 +60,6 @@ const config = {
             }
             return [`/evidence/characters/${char}`];
           }
-
           return [];
         },
         redirects: [
@@ -151,9 +143,27 @@ const config = {
       crossorigin: 'anonymous',
     },
   ],
+  themes: ['docusaurus-theme-search-typesense'],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+
+    
+          
+            
+    
+
+          
+          Expand Down
+          
+            
+    
+
+          
+          Expand Up
+    
+    @@ -242,18 +241,5 @@ const config = {
+  
       navbar: {
         title: 'ستار ريل بالعربي',
         logo: {
@@ -241,5 +251,18 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      typesense: {
+        typesenseCollectionName: 'srl',
+        typesenseServerConfig: {
+          nodes: [{
+            host: 'library-search.keqingmains.com',
+            port: 443,
+            protocol: 'https'
+          }],
+          apiKey: 'g5CAwtRMy61YRcTvtNhANtMbhTvWveA9'
+        }
+      }
+    }),
+};
 
 module.exports = config;
