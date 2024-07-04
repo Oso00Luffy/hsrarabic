@@ -112,7 +112,6 @@ const config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: '/',
           remarkPlugins: [math],
           rehypePlugins: [katex],
         },
@@ -120,7 +119,6 @@ const config = {
           routeBasePath: '/newsletter',
           blogTitle: 'Newsletter',
           path: 'newsletter',
-          editUrl: '/',
           postsPerPage: 5,
           blogSidebarCount: 'ALL',
           blogSidebarTitle: 'All our posts',
