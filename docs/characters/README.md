@@ -23,4 +23,4 @@ import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
 }/> 
 
 import React from 'react';
-import FancyCard from '@site/src/components/FancyCard'; // Adjust the path as necessary
+import FancyCard from '@site/src/components/FancyCard';
