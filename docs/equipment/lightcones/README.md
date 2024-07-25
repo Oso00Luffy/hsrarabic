@@ -2,9 +2,9 @@
 sidebar_position: 1000
 ---
 
-# Light Cones
+# لايتكونز
 
-## Light Cone Pages
+## أصناف اللايتكونز
 
 import DocCardList from '@theme/DocCardList';
 

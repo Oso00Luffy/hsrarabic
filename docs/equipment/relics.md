@@ -2,7 +2,7 @@
 sidebar_position: 2000
 ---
 
-# Relics
+# ريليكس
 
 import Relic from '@site/src/components/relics/Relic'
 

@@ -2,7 +2,7 @@
 sidebar_position: 2001
 ---
 
-# Characters
+# الشخصيات
 
 Characters are organized per Element.
 
